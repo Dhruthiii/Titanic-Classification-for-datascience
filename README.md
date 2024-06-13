@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Dhruthiii
-- 👀 I’m interested in Programming
-- 🌱 I'm currently learning javascript
-  Have a knowledge on Python
-- 💞️ I’m looking to collaborate to my project 
+![image](https://github.com/Dhruthiii/Dhruthiii/assets/141212789/5cb4a6ab-d0ec-4356-989f-8d8b1e1af573)
 
-<!---
-Dhruthiii/Dhruthiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+The Titanic Survival dataset is a widely-used dataset in the field of machine learning and data analysis. It contains information about the passengers on board the  Titanic, including whether they survived the shipwreck or not
+The Goal:
+Predict whether a passenger survived or not. 0 for not surviving, 1 for surviving.
