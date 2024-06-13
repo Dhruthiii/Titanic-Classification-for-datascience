@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dhruthiii
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I'm currently learning javascript
+  Have a knowledge on Python
 - 💞️ I’m looking to collaborate to my project 
 
 <!---
